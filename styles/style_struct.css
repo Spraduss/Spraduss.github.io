@@ -1,0 +1,14 @@
+header {
+    background-color: #f2f2f2;
+    padding: 5px 0;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.qr_code {
+    width: 100px;
+    height: 100px;
+    margin-right: 10px;
+    display: block;
+}
